@@ -1,0 +1,6 @@
+shopping.csv
+ml/
+__pycache__/
+.vscode/
+.venv/
+.env/
